@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+*/.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# VSCode settings
+.vscode/
+
+# IDE settings
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
