@@ -1,6 +1,21 @@
-# 🌟 Weather & Time AI Agent
+<div align="center">
+
+# 🌟 ADK(Agent Development Kit) Sample Minimum
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Google ADK](https://img.shields.io/badge/Google-ADK-green)](https://developers.google.com/adk)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+![Header Image](docs/header.png)
 
 このプロジェクトは、Google ADKを使用して作られた天気と時間を教えてくれるAIエージェントだよ！✨
+
+</div>
+
+## 📂 プロジェクト構成
+
+- [📱 エージェントの実装詳細](multi_tool_agent/README.md)
+- [📚 ドキュメントとアセット](docs/README.md)
 
 ## 📋 機能
 
@@ -53,6 +68,10 @@ adk web
 2. ブラウザで表示されたURL（通常は http://localhost:8000）にアクセス
 3. 左上のドロップダウンメニューから "multi_tool_agent" を選択
 4. チャットボックスでエージェントと会話開始！
+
+## 📱 使用例
+
+![Chat Example](docs/chat_example.png)
 
 ## 📝 サンプルプロンプト
 
